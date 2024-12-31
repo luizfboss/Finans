@@ -1,8 +1,16 @@
 .box{
-  background-color: white;
+  background-color: #1d2124;
+  color: white;
   padding: 60px 0px;
 }
-
+#footer-section{
+  color: white;
+  background-color: #1d2124;
+}
+footer{
+  color: white;
+  background-color: #1d2124;
+}
 footer p a{
   margin: 5px 15px;
 }
